@@ -15,13 +15,11 @@
 </h1>
 </div>
 <div align="center">
-  
+  <img src="https://media.giphy.com/media/PiuL0MyzhlQv9fkNrY/giphy.gif"/>
 </div>
-
 
 ---
 
-<img src="https://media.giphy.com/media/PiuL0MyzhlQv9fkNrY/giphy.gif"/>
 ### :woman_technologist: About Me :
 I am a Junior Front End Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
 
