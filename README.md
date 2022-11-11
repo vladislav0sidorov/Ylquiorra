@@ -27,7 +27,7 @@ I am a Junior Front End Developer <img src="https://media.giphy.com/media/WUlplc
 
 - :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/%D0%B2%D0%BB%D0%B0%D0%B4%D0%B8%D1%81%D0%BB%D0%B0%D0%B2-%D1%81%D0%B8%D0%B4%D0%BE%D1%80%D0%BE%D0%B2-44b424252/) or HeadHunter
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/%D0%B2%D0%BB%D0%B0%D0%B4%D0%B8%D1%81%D0%BB%D0%B0%D0%B2-%D1%81%D0%B8%D0%B4%D0%BE%D1%80%D0%BE%D0%B2-44b424252/) or [(https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://hh.ru/resume/41643b38ff0b4944700039ed1f4c743567576c?from=share_ios)
 
 ---
 
