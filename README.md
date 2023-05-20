@@ -37,10 +37,6 @@ My contacts: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?sty
 
 ---
 
-### :fire: My Stats :
-
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ylquiorra&theme=react&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ylquiorra&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ylquiorra&layout=compact&theme=react)](https://github.com/anuraghazra/github-readme-stats)
