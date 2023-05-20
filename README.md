@@ -14,7 +14,7 @@
 ### :woman_technologist: About Me :
 I am a Frontend Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vladislav-sidorov-frontend-developer/) or [![HeadHunter](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://hh.ru/resume/41643b38ff0b4944700039ed1f4c743567576c?from=share_ios)
+- How to reach me: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vladislav-sidorov-frontend-developer/) or [![HeadHunter](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://hh.ru/resume/41643b38ff0b4944700039ed1f4c743567576c?from=share_ios)
 - cheek my resume: <a href="https://docs.google.com/document/d/18HdT1a0aYrnJ-E3gXGzqDvtu473JQEJUuRNUFN2h_zg/edit"> in Russia </a>
 
 ---
