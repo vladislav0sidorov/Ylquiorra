@@ -1,12 +1,6 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
   <div id="badges">
-  <a href="https://www.linkedin.com/in/%D0%B2%D0%BB%D0%B0%D0%B4%D0%B8%D1%81%D0%BB%D0%B0%D0%B2-%D1%81%D0%B8%D0%B4%D0%BE%D1%80%D0%BE%D0%B2-44b424252/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="https://www.youtube.com/channel/UCfEY7GKoFqay0Ze5oC7fBJA">
-    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
-  </a>
 </div>
 <img src="https://komarev.com/ghpvc/?username=ylquiorra&style=flat-square&color=blue" alt=""/>
   <h1>
@@ -18,11 +12,9 @@
 ---
 
 ### :woman_technologist: About Me :
-I am a Junior Frontend Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
+I am a Frontend Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
 
-- :telescope: Now I`m looking for a job.
-
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/%D0%B2%D0%BB%D0%B0%D0%B4%D0%B8%D1%81%D0%BB%D0%B0%D0%B2-%D1%81%D0%B8%D0%B4%D0%BE%D1%80%D0%BE%D0%B2-44b424252/) or [![HeadHunter](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://hh.ru/resume/41643b38ff0b4944700039ed1f4c743567576c?from=share_ios)
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vladislav-sidorov-frontend-developer/) or [![HeadHunter](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://hh.ru/resume/41643b38ff0b4944700039ed1f4c743567576c?from=share_ios)
 - cheek my resume: <a href="https://docs.google.com/document/d/18HdT1a0aYrnJ-E3gXGzqDvtu473JQEJUuRNUFN2h_zg/edit"> in Russia </a>
 
 ---
